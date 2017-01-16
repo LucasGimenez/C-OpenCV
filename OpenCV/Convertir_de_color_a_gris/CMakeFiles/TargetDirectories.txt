@@ -1,0 +1,1 @@
+/home/lucas/OpenCV/Convertir_de_color_a_gris/CMakeFiles/Convert.dir

@@ -1,0 +1,1 @@
+/home/lucas/OpenCV/Binarizar_una_imagen/CMakeFiles/Binario.dir
