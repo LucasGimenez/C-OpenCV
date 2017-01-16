@@ -1,0 +1,7 @@
+Este algoritmo se basa en el filtro de detección de bordes Canny.
+Toma como entrada una imágen y como salida obtenemos los bordes 
+de la imágen. El algoritmo se basa en la teoría que un borde, 
+en las imágenes, se expresa como un cambio abrupto en el valor 
+de los pixeles frontera de la imágen. Se crea una matriz de 3x3
+y analizamos el valor de cada uno de los pixeles para reconocer
+si dicho pixel pertenece o no a un borde.
