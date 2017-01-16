@@ -1,0 +1,5 @@
+Este algoritmo fue hecho en C++ utilizando las librerías de OpenCV.
+En este caso particular se trata de una binarización de la imágen. 
+Establece un umbral y a cada pixel evaluado le asigna un valor 0 o 1,
+en función de si su valor original se encuentra por debajo o por encima
+del umbral establecido respectivamente.
